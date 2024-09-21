@@ -1,0 +1,24 @@
+/* #first_background{
+    background-color: white;
+} */
+
+/* .tm-nav-ul li a{
+    color: red;
+} */
+
+.tm-header-inner {
+    padding: 40px 50px;
+    position: relative;
+    bottom: 338px;
+}
+
+/* img{
+    width: 250px;
+    height: 250px; */
+/* } */
+
+.imgsize{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
